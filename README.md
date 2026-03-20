@@ -1,7 +1,7 @@
 # Biblioteca---API
 API RESTful para gerenciamento de biblioteca - CRUD completo - NODE.js e Express
 markdown
-## Estrutura do Projeto
+##📁 Estrutura do Projeto
 biblioteca-api/ \
 ├── src/ \
 │ ├── controllers/ # Controladores da aplicação \
